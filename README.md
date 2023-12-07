@@ -1,6 +1,8 @@
 # Emergency
 
-## Constructed a front-end web page with Vue.js, and Element UI for Environmental Emergency Management including common transaction management, staff receiving reports, commanding personnel handling reports, etc.
+### Constructed a front-end web page with Vue.js, and Element UI for 
+Environmental Emergency Management including common transaction management, staff receiving reports, commanding personnel handling reports, etc.
+
 
 ## Project setup
 ```
